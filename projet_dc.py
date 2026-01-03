@@ -1,4 +1,4 @@
-from fonction import
+from fonction import *
 import streamlit as st 
 import pandas as pd
 import numpy as np
